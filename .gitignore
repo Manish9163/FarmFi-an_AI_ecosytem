@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local envs
+.env
+.env.local
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
